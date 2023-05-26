@@ -1,2 +1,2 @@
 # SoulCode
-Lab's das atividades realizadas durante o Bootcamp
+Lab's das atividades e projetos realizados durante o Bootcamp
